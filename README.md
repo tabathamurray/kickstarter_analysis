@@ -12,6 +12,8 @@ The main challenge I encountered was utilizing the COUNTIFS formulas. I have nev
 
 ### Analysis of Outcomes Based on Launch Date
 
+!(Outcomes Based on Launch Date)(https://github.com/tabathamurray/kickstarter_analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
