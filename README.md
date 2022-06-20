@@ -8,15 +8,17 @@ The purpose of this challenge is to show a thorough knowledge of Excel and to cr
 
 ## Analysis and Challenges
 
-The main challenge I encountered was utilizing the COUNTIFS formulas. I have never had to use this formula, so it was pretty new to me. I watched the video on how to add multiple factors when comparing the data based on goals. I would say it took me over an hour to finally grasp. I also threw myself off in the beginning because I forgot to use quotations around the specific variables. 
-
 ### Analysis of Outcomes Based on Launch Date
 
-!(Outcomes Based on Launch Date)(https://github.com/tabathamurray/kickstarter_analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+https://github.com/tabathamurray/kickstarter_analysis/blob/main/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
+https://github.com/tabathamurray/kickstarter_analysis/blob/main/Outcomes_vs_Goals.png
+
 ### Challenges and Difficulties Encountered
+
+The main challenge I encountered was utilizing the COUNTIFS formulas. I have never had to use this formula, so it was pretty new to me. I watched the video on how to add multiple factors when comparing the data based on goals. I would say it took me over an hour to finally grasp. I also threw myself off in the beginning because I forgot to use quotations around the specific variables. 
 
 ## Results
 
